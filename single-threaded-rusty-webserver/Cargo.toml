@@ -1,0 +1,9 @@
+[package]
+name = "single-threaded-rusty-webserver"
+version = "0.1.0"
+authors = ["Volpe95 <m_m_kassem@hotmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
